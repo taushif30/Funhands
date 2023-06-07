@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: linear-gradient(to right ,#f8efed,#ffa07f);
+}
+
+.top{
+    width: 100%;
+    text-align: center;
+    height: 100px;
+    padding-top: 20px;
+}
